@@ -1,7 +1,3 @@
-# Extraction from tribune
-# url 'http://www.tribuneindia.com/news/nation/'
-
-
 import requests
 from link_extractor import extractor
 
